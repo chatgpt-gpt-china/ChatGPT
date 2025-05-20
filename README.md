@@ -1,4 +1,4 @@
-# ChatGPT 中文版：免费直连指南~（无需翻墙，支持 GPT-4、GPT-4o、GPT-o1 和 GPT-o3）【2025/05/20 更新】                                                              
+# ChatGPT 中文版：免费直连指南~（无需翻墙，支持 GPT-4、GPT-4o、GPT-o1 和 GPT-o3）【2025/05/21 更新】                                                              
 
 国内能轻松使用的 [**ChatGPT 中文版**](https://chat.lanjing.pro)，**无需翻墙**，**支持 GPT-4、4o、o1、o3 及中文版功能**
 
